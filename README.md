@@ -1,6 +1,6 @@
 # Joseph Richardson
 
-I study computer vision and diffusion models as a PhD candidate in Data Science at Kennesaw State. I used to be a graphic designer, so good design goes into every figure I make: In papers, explainers, and interactive visuals built with JavaScript.
+I study computer vision and diffusion models as a PhD candidate in Data Science at Kennesaw State. I used to be a graphic designer and a photographer, so good design goes into every figure I make: In papers, explainers, and interactive visuals built with JavaScript.
 
 My research asks what AI models remember about the data they were trained on. For medical imaging, the answer matters: A hospital can release a model's weights and still leak which patients it learned from. I also apply network analysis to movie data, mapping who works with whom among cast and crew.
 
